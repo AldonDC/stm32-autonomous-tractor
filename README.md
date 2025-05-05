@@ -46,9 +46,13 @@ Este sistema ha sido diseñado para:
 - 🔴 **Retroalimentación interactiva**  
   Señales visuales y auditivas que informan el estado del sistema durante la operación.
 
+<br>
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/45cf58f1-d168-4f37-9443-db2cc26f3ee3" width="400" style="margin-top: 20px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/45cf58f1-d168-4f37-9443-db2cc26f3ee3" width="400" style="margin-top: 30px; border-radius: 10px; box-shadow: 0px 0px 10px #ccc;">
+  <p style="margin-top: 10px; font-size: 14px;"><em>Figura 1. Vehículo autónomo STM32 durante pruebas de laboratorio.</em></p>
 </div>
+
 
 
 
