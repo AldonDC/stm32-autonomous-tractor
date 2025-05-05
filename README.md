@@ -26,14 +26,19 @@
 ---
 
 ## 🌟 Visión General
-<img align="right" width="300" src="![WhatsApp Image 2025-05-05 at 1 40 14 PM](https://github.com/user-attachments/assets/1a0dc9f4-5aa1-4d7e-98d1-d4e695951929)"/>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1a0dc9f4-5aa1-4d7e-98d1-d4e695951929" width="250" style="border-radius: 8px; margin: 15px;" align="right"/>
+</div>
 El proyecto STM32 Autonomous Tractor implementa un vehículo agrícola a escala con capacidad de navegación autónoma precisa mediante múltiples protocolos de comunicación y sensores avanzados. Diseñado para:
-- Navegación waypoint: Seguimiento de rutas preestablecidas con precisión
-- Toma de decisiones en tiempo real: Ajustes dinámicos de velocidad y dirección
-- Comunicación multi-protocolo: Integración de sistemas mediante SPI, I2C, CAN y UART
-- Redundancia en posicionamiento: Mayor precisión mediante algoritmos de fusión sensorial
-- Retroalimentación interactiva: Señales visuales y auditivas durante la operación 
-<br clear="right"/> 
+
+Navegación waypoint: Seguimiento de rutas preestablecidas con precisión
+Toma de decisiones en tiempo real: Ajustes dinámicos de velocidad y dirección
+Comunicación multi-protocolo: Integración de sistemas mediante SPI, I2C, CAN y UART
+Redundancia en posicionamiento: Mayor precisión mediante algoritmos de fusión sensorial
+Retroalimentación interactiva: Señales visuales y auditivas durante la operación
+
+<br clear="right"/>
 
 
 ## 🔥 Características Principales
