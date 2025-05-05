@@ -25,17 +25,16 @@
 
 ---
 
-## 🌟 Visión General
+🌟 Visión General
+<img align="right" width="300" src="https://github.com/user-attachments/assets/1a0dc9f4-5aa1-4d7e-98d1-d4e695951929"/>
+El proyecto STM32 Autonomous Tractor implementa un vehículo agrícola a escala que revoluciona la agricultura de precisión mediante navegación autónoma avanzada. Utilizando el potente microcontrolador STM32H755, el sistema integra múltiples tecnologías de comunicación y sensores para lograr un control preciso y adaptativo.
+Características innovadoras:
 
-<img align="right" width="300" src="![WhatsApp Image 2025-05-05 at 1 40 14 PM](https://github.com/user-attachments/assets/1a0dc9f4-5aa1-4d7e-98d1-d4e695951929)"/>
-
-El proyecto STM32 Autonomous Tractor implementa un vehículo agrícola a escala con capacidad de navegación autónoma precisa mediante múltiples protocolos de comunicación y sensores avanzados. Diseñado para:
-
-- **Navegación waypoint:** Seguimiento de rutas preestablecidas con precisión
-- **Toma de decisiones en tiempo real:** Ajustes dinámicos de velocidad y dirección
-- **Comunicación multi-protocolo:** Integración de sistemas mediante SPI, I2C, CAN y UART
-- **Redundancia en posicionamiento:** Mayor precisión mediante algoritmos de fusión sensorial
-- **Retroalimentación interactiva:** Señales visuales y auditivas durante la operación
+🎯 Navegación por waypoints: Sistema de seguimiento de rutas predefinidas con precisión de ±7cm mediante fusión de datos NRF24L01 y encoder
+⚡ Toma de decisiones en tiempo real: Algoritmos adaptativos que ajustan velocidad y dirección según condiciones del terreno y complejidad de maniobras
+🔄 Comunicación multi-protocolo: Arquitectura robusta integrando SPI, I2C, CAN y UART para comunicación fluida entre todos los componentes
+📊 Redundancia en posicionamiento: Mayor fiabilidad mediante algoritmos de fusión sensorial que combinan datos del IMU y encoder
+📢 Retroalimentación interactiva: Sistema de alertas visuales y auditivas que indican el estado de navegación y llegada a puntos objetivo
 
 <br clear="right"/>
 
