@@ -47,8 +47,9 @@ Este sistema ha sido diseñado para:
   Señales visuales y auditivas que informan el estado del sistema durante la operación.
 
 <div align="center">
-  <img src="https://github.com/AldonDC/stm32-autonomous-tractor/assets/GuYVwJiKt7NdEFauCeiFsV" width="400" style="margin-top: 20px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/45cf58f1-d168-4f37-9443-db2cc26f3ee3" width="400" style="margin-top: 20px; border-radius: 10px;">
 </div>
+
 
 
 
