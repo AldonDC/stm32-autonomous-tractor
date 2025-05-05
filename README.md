@@ -384,8 +384,6 @@ void NRFMotorEncoderCAN() {
 
 <div align="center">
   <h3>🏆 Diseño de Sistemas Embebidos Avanzados</h3>
-  <h4>Profesor: Alfonso Ávila Ortega</h4>
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/tec_logo.png" width="200"/><br/><br/>
   <b>Tecnológico de Monterrey © 2024</b><br/>
   <i>Semestre Agosto-Diciembre</i>
 </div>
