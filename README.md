@@ -27,7 +27,7 @@
 
 ## 🌟 Visión General
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/tractor_side.jpg"/>
+<img align="right" width="300" src="![WhatsApp Image 2025-05-05 at 1 40 14 PM](https://github.com/user-attachments/assets/1a0dc9f4-5aa1-4d7e-98d1-d4e695951929)"/>
 
 El proyecto STM32 Autonomous Tractor implementa un vehículo agrícola a escala con capacidad de navegación autónoma precisa mediante múltiples protocolos de comunicación y sensores avanzados. Diseñado para:
 
