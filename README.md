@@ -27,15 +27,11 @@
 
 ## 🌟 Visión General
 
-<div align="right">
-  <img src="https://github.com/AldonDC/stm32-autonomous-tractor/assets/GuYVwJiKt7NdEFauCeiFsV" width="280" style="border-radius: 10px; margin: 10px;" />
-</div>
-
 El proyecto **STM32 Autonomous Tractor** implementa un vehículo agrícola a escala con capacidad de **navegación autónoma precisa** mediante múltiples protocolos de comunicación y sensores avanzados.
 
 Este sistema ha sido diseñado para:
 
-- 🚜 **Navegación por waypoints**  
+- 🛻 **Navegación por waypoints**  
   Seguimiento preciso de rutas preestablecidas con algoritmos de control integrados.
 
 - 🧠 **Toma de decisiones en tiempo real**  
@@ -44,13 +40,16 @@ Este sistema ha sido diseñado para:
 - 🔌 **Comunicación multi-protocolo**  
   Integración robusta mediante SPI, I2C, CAN y UART para múltiples sensores y módulos.
 
-- 🎯 **Redundancia en posicionamiento**  
+- 📡 **Redundancia en posicionamiento**  
   Mayor precisión gracias a fusión sensorial (e.g., IMU MPU6050 y radiofrecuencia NRF24).
 
-- 📢 **Retroalimentación interactiva**  
+- 🔴 **Retroalimentación interactiva**  
   Señales visuales y auditivas que informan el estado del sistema durante la operación.
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://github.com/AldonDC/stm32-autonomous-tractor/assets/GuYVwJiKt7NdEFauCeiFsV" width="400" style="margin-top: 20px; border-radius: 10px;">
+</div>
+
 
 
 
