@@ -355,13 +355,11 @@ void NRFMotorEncoderCAN() {
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/avatar1.png" width="100"/><br/>
         <b>Alfonso Solís Díaz</b><br/>
         A00838034<br/>
         <i>Implementación y configuración</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/avatar2.png" width="100"/><br/>
         <b>Jesús René Hernández</b><br/>
         A00837617<br/>
         <i>Construcción e integración</i>
@@ -369,13 +367,11 @@ void NRFMotorEncoderCAN() {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/avatar3.png" width="100"/><br/>
         <b>Juan José Castillo</b><br/>
         A01750541<br/>
         <i>Algoritmos de navegación</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/avatar4.png" width="100"/><br/>
         <b>Felipe García García</b><br/>
         A01705893<br/>
         <i>Diseño mecánico y estructural</i>
