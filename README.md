@@ -2,8 +2,6 @@
   
 # 🚜 STM32 AUTONOMOUS TRACTOR
 
-<img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/header_tractor.jpg" width="650" alt="Tractor Autónomo"/>
-
 [![Tecnológico de Monterrey](https://img.shields.io/badge/ITESM-Tec_de_Monterrey-0033A0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAELSURBVDhPY/hPIWBiIANQpDF0//7/KCcn/3dMTPy/v7/3f2Nj4/+srKz/QUFB/y0sLP7LyMj8x6oRpKm2tva/r6/v/7S0tP+ZmZn/c3Jy/kdGRv63s7P7LyYm9h+rRqCm/2FhYf/d3Nz+Ozo6/gfhwMDA/1ZWVv/FxMSwawTFUXV19X9PT8//QUEhYI1AbGpq+t/Q0PC/pKQk2ASsGkFOpqWl/Q8ODgYbYWdn99/a2vq/jo4OWC1WjSCnJicng+MoOjoarNHMzOy/sbExWC1WjSCnxsfHg+PIz88fbISJiQlYLVaNIBzQ13cQhL29vcEa9fX1werQNYIxUNP/np6e/+3t7WCNampq/5WVlf/DxGBsAOL+UcJYzYZ7AAAAAElFTkSuQmCC)](https://tec.mx)
 [![STM32](https://img.shields.io/badge/STM32-H755-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![ROS](https://img.shields.io/badge/Embedded-Systems-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/AldonDC/stm32-autonomous-tractor)
@@ -89,10 +87,6 @@ El proyecto STM32 Autonomous Tractor implementa un vehículo agrícola a escala 
 
 ## 🏗 Arquitectura del Sistema
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/system_architecture.png" width="750" alt="Arquitectura del Sistema"/>
-</div>
-
 El sistema integra múltiples módulos interconectados:
 
 1. **STM32H755 (Núcleo):** Orquesta todas las operaciones y cálculos principales
@@ -104,48 +98,50 @@ El sistema integra múltiples módulos interconectados:
 
 ## 🛰 Hardware Utilizado
 
-<table>
-<tr>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/stm32h755.png" width="100"/><br/>
-  <b>STM32H755</b><br/>
-  Microcontrolador Dual-Core<br/>
-  (ARM Cortex-M7/M4)
-</td>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/nrf24l01.png" width="100"/><br/>
-  <b>NRF24L01</b><br/>
-  Módulo de comunicación<br/>
-  inalámbrica 2.4GHz
-</td>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/mpu6050.png" width="100"/><br/>
-  <b>MPU6050</b><br/>
-  Sensor IMU con<br/>
-  acelerómetro y giroscopio
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/motor.png" width="100"/><br/>
-  <b>GA25-370</b><br/>
-  Motor DC con<br/>
-  encoder integrado
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/servo.png" width="100"/><br/>
-  <b>DS04-NFC</b><br/>
-  Servomotor para<br/>
-  control de dirección
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/can.png" width="100"/><br/>
-  <b>TJA1051 + MCP2515</b><br/>
-  Transceptor y controlador<br/>
-  para comunicación CAN
-</td>
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://www.st.com/bin/ecommerce/api/image.PF268077.en.feature-description-include-personalized-no-cpn-large.jpg" width="120" height="120"/><br/>
+        <b>STM32H755</b><br/>
+        Microcontrolador Dual-Core<br/>
+        (ARM Cortex-M7/M4)
+      </td>
+      <td align="center">
+        <img src="https://components101.com/sites/default/files/component_pin/NRF24L01-Pinout.jpg" width="120" height="120"/><br/>
+        <b>NRF24L01</b><br/>
+        Módulo de comunicación<br/>
+        inalámbrica 2.4GHz
+      </td>
+      <td align="center">
+        <img src="https://components101.com/sites/default/files/component_pin/MPU6050-Sensor-Module-Pinout.jpg" width="120" height="120"/><br/>
+        <b>MPU6050</b><br/>
+        Sensor IMU con<br/>
+        acelerómetro y giroscopio
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.sigmaelectronica.net/wp-content/uploads/2018/07/SERVOMOTOR-MG996R-METALICO.jpg" width="120" height="120"/><br/>
+        <b>MG996R</b><br/>
+        Servomotor para<br/>
+        control de dirección
+      </td>
+      <td align="center">
+        <img src="https://components101.com/sites/default/files/component_pin/GA25-371-DC-Motor.jpg" width="120" height="120"/><br/>
+        <b>GA25-370</b><br/>
+        Motor DC con<br/>
+        encoder integrado
+      </td>
+      <td align="center">
+        <img src="https://www.naylampmechatronics.com/3754-home_default/can-bus-module-tja1051.jpg" width="120" height="120"/><br/>
+        <b>TJA1051 + MCP2515</b><br/>
+        Transceptor y controlador<br/>
+        para comunicación CAN
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ⚙️ Configuración del Sistema
 
