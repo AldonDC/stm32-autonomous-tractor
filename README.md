@@ -357,7 +357,7 @@ void NRFMotorEncoderCAN() {
       <td align="center">
         <b>Alfonso Solís Díaz</b><br/>
         A00838034<br/>
-        <i>Implementación y configuración</i>
+        <i>Implementación, configuración y algoritmos </i>
       </td>
       <td align="center">
         <b>Jesús René Hernández</b><br/>
