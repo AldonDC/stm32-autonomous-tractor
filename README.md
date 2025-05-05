@@ -102,19 +102,19 @@ El sistema integra múltiples módulos interconectados:
   <table>
     <tr>
       <td align="center">
-        <img src="https://www.st.com/bin/ecommerce/api/image.PF268077.en.feature-description-include-personalized-no-cpn-large.jpg" width="120" height="120"/><br/>
+        <img src="https://cdn3.botland.store/68288/stm32-nucleo-h755zi-q-stm32h755zit6-arm-cortex.jpg" width="120" height="120"/><br/>
         <b>STM32H755</b><br/>
         Microcontrolador Dual-Core<br/>
         (ARM Cortex-M7/M4)
       </td>
       <td align="center">
-        <img src="https://components101.com/sites/default/files/component_pin/NRF24L01-Pinout.jpg" width="120" height="120"/><br/>
+        <img src="https://www.luisllamas.es/wp-content/uploads/2016/12/arduino-nrf24l01-2.4ghz-componente.webp" width="120" height="120"/><br/>
         <b>NRF24L01</b><br/>
         Módulo de comunicación<br/>
         inalámbrica 2.4GHz
       </td>
       <td align="center">
-        <img src="https://components101.com/sites/default/files/component_pin/MPU6050-Sensor-Module-Pinout.jpg" width="120" height="120"/><br/>
+        <img src="https://naylampmechatronics.com/img/cms/Blog/Tutorial%20MPU6050/Ejes%20MPU6050.jpg" width="120" height="120"/><br/>
         <b>MPU6050</b><br/>
         Sensor IMU con<br/>
         acelerómetro y giroscopio
@@ -122,19 +122,19 @@ El sistema integra múltiples módulos interconectados:
     </tr>
     <tr>
       <td align="center">
-        <img src="https://www.sigmaelectronica.net/wp-content/uploads/2018/07/SERVOMOTOR-MG996R-METALICO.jpg" width="120" height="120"/><br/>
+        <img src="https://m.media-amazon.com/images/I/613pr9JmQQL._AC_UF894,1000_QL80_.jpg" width="120" height="120"/><br/>
         <b>MG996R</b><br/>
         Servomotor para<br/>
         control de dirección
       </td>
       <td align="center">
-        <img src="https://components101.com/sites/default/files/component_pin/GA25-371-DC-Motor.jpg" width="120" height="120"/><br/>
+        <img src="https://uelectronics.com/wp-content/uploads/2022/05/AR2770-GM-25-370-Encoder-12V-DC-140RPM-V1.jpg" width="120" height="120"/><br/>
         <b>GA25-370</b><br/>
         Motor DC con<br/>
         encoder integrado
       </td>
       <td align="center">
-        <img src="https://www.naylampmechatronics.com/3754-home_default/can-bus-module-tja1051.jpg" width="120" height="120"/><br/>
+        <img src="https://i.ytimg.com/vi/0ISSEpASPMw/maxresdefault.jpg" width="120" height="120"/><br/>
         <b>TJA1051 + MCP2515</b><br/>
         Transceptor y controlador<br/>
         para comunicación CAN
