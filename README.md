@@ -343,7 +343,8 @@ void NRFMotorEncoderCAN() {
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1VipUzo-c-BnRVilcmz3iSH7LOjSFaA0G/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/video_thumbnail.jpg" width="550" alt="Video Demo"/>
+    <img src=![STM32 CARRO](https://github.com/user-attachments/assets/c1ec0153-dcc0-47a1-b80b-a2053f6a6fe1)
+ width="550" alt="Video Demo"/>
     <br/>
     <b>▶️ Ver video de demostración</b>
   </a>
