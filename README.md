@@ -402,8 +402,15 @@ void NRFMotorEncoderCAN() {
 
 ---
 
+---
+
 <div align="center">
   <h3>🏆 Diseño de Sistemas Embebidos Avanzados</h3>
   <b>Tecnológico de Monterrey © 2024</b><br/>
   <i>Semestre Agosto-Diciembre</i>
+  
+  <br/><br/>
+  
+  <h4>Agradecimientos</h4>
+  <p>Un agradecimiento especial a John Deere por el patrocinio y al Instituto Tecnológico y de Estudios Superiores de Monterrey por proporcionar las instalaciones y equipamiento necesarios para desarrollar este proyecto.</p>
 </div>
