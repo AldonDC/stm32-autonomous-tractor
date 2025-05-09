@@ -27,7 +27,7 @@
 
 ## 🌟 Visión General
 
-El proyecto **STM32 Autonomous Tractor** implementa un vehículo agrícola a escala con capacidad de **navegación autónoma precisa** mediante múltiples protocolos de comunicación y sensores avanzados.
+El proyecto **STM32 Autonomous Tractor** junto con John Deere se implemento un vehículo agrícola a escala con capacidad de **navegación autónoma precisa** mediante múltiples protocolos de comunicación y sensores avanzados.
 
 Este sistema ha sido diseñado para:
 
